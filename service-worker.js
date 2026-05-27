@@ -1,4 +1,4 @@
-const CACHE_NAME = 'mobile-pm-programacao-v29';
+const CACHE_NAME = 'mobile-pm-programacao-v32';
 const ASSETS = ['./','./index.html','./manifest.json',
   './config.js','./icons/icon-192.png','./icons/icon-512.png'];
 
